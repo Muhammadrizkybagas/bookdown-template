@@ -29,7 +29,7 @@ Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor
 
 ## Sub Content 1
 
-:::{callout-note title="Note"}
+:::{.callout-note title="Note"}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
 
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praes
 
 ## Sub Content 2
 
-:::{callout-tip title="Tip"}
+:::{.callout-tip title="Tip"}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
 
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praes
 
 ## Sub Content 3
 
-:::{callout-warning title="Warning"}
+:::{.callout-warning title="Warning"}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
 

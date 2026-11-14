@@ -2,9 +2,189 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "Introduction to Data Visualization",
+    "title": "Enter Your Main Content",
     "section": "",
-    "text": "Pada bagian ini, kita akan mengenal dasar-dasar visualisasi data. Fokusnya bukan pada membuat grafik sebanyak mungkin, tetapi memahami mengapa, kapan, dan bagaimana sebuah grafik digunakan.\n\n1 Apa Itu Data Visualization\nData visualization adalah proses menyajikan data dalam bentuk visual agar informasi lebih mudah dipahami. Visualisasi dapat berupa grafik, diagram, peta, tabel, dashboard\nTujuan utamanya adalah membantu kita melihat informasi yang sulit ditemukan dari data mentah. Visualisasi dapat membantu menemukan:\n\nPola\nPerbedaan\nTren\nHubungan\nNilai yang tidak biasa\n\n\n\n\n\n\n\n\nNoteNote\n\n\n\nVisualisasi bukan sekadar membuat data terlihat menarik tapi dapat digunakan untuk membantu memahami data.\n\n\n\n\n\n2 Mengapa Data Perlu Divisualisasikan\nData dalam bentuk tabel dapat memberikan informasi yang lengkap. Namun, semakin banyak data yang tersedia, semakin sulit pola terlihat secara langsung.\n\nVisualisasi membantu menyederhanakan informasi tersebut.\n\nContohnya, data berikut dapat menunjukkan jumlah peserta berdasarkan kategori:\n\n\n\nKategori\nJumlah\n\n\n\n\nA\n80\n\n\nB\n60\n\n\nC\n40\n\n\nD\n25\n\n\n\nAngka tersebut dapat dibaca dari tabel. Namun, grafik membuat perbedaan antar kategori dapat dikenali dengan lebih cepat.\n\n\n\n\n\n\n\n\n\n\n\n\n3 Data, Informasi, dan Insight\nData, informasi, dan insight memiliki peran yang berbeda.\n\nData → merupakan nilai atau fakta yang dikumpulkan.\nInformasi → memberikan konteks terhadap data. &gt; Contoh: Kategori F memiliki jumlah paling tinggi.\nInsight → pemahaman yang diperoleh setelah data dianalisis. &gt; Kategori F memiliki jumlah angka yang jauh lebih tinggi dibandingkan kategori lainnya.\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipNote\n\n\n\nInsight membutuhkan interpretasi. Grafik yang bagus belum tentu menghasilkan insight yang bagus.\n\n\n\n\n\n4 Memilih Visualisasi yang Tepat\nTidak semua data cocok menggunakan grafik yang sama. Pemilihan visualisasi harus disesuaikan dengan pertanyaan yang ingin dijawab.\n\n\n\nTujuan\nVisualisasi\n\n\n\n\nMembandingkan kategori\nBar Chart\n\n\nMelihat perubahan\nLine Chart\n\n\nMelihat hubungan\nScatter Plot\n\n\nMelihat distribusi\nHistogram\n\n\nMelihat sebaran kelompok\nBoxplot\n\n\n\nContohnya:\n\n\n\n\n\n\nTipBar Chart\n\n\n\nKategori mana yang memiliki nilai paling tinggi?\n\n\n\n\n\n\n\n\nTipLine Chart\n\n\n\nBagaimana perubahan nilai dari waktu ke waktu?\n\n\n\n\n\n\n\n\nTipScatter Plot\n\n\n\nApakah dua variabel memiliki hubungan?\n\n\n\n\n\n\n\n\n\n\n\n5 Contoh Sederhana\nSekarang kita lihat contoh sederhana. Terdapat data jumlah peserta berdasarkan program studi.\n\n\n\nProgram Studi\nJumlah\n\n\n\n\nSains Data\n42\n\n\nInformatika\n35\n\n\nBisnis Digital\n28\n\n\nDesain Produk\n21\n\n\n\nPertanyaan yang ingin dijawab:\n\nProgram studi mana yang memiliki jumlah peserta paling banyak?\n\nKarena fokusnya adalah membandingkan beberapa kategori, Bar Chart dapat digunakan. Hasil visualisasinya akan memperlihatkan perbedaan jumlah dengan lebih jelas.\n\n\n\n\n\n\n\n\n\n\n\n\n6 Apa yang Akan Kita Kerjakan\nDalam kegiatan ini, prosesnya akan berjalan melalui beberapa tahap:\n\n\n\n\n\n\nKita akan menggunakan RStudio untuk menjalankan proses tersebut. Beberapa hal yang akan dipelajari:\n\nMengambil data\nMemahami struktur data\nMembuat visualisasi\nMemilih grafik yang sesuai\nMembaca pola\nMenemukan insight\nMenyajikan hasil analisis\n\nPada bagian berikutnya, kita akan mulai bekerja dengan RStudio dan Dashboard.\n\n\n\n\n\n\n\n\n\n\n\n\nNoteRemember\n\n\n\nStart with a question, not a chart.\nTentukan apa yang ingin diketahui terlebih dahulu. Setelah itu, pilih visualisasi yang paling sesuai.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.\n\n\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nCurabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-1",
+    "href": "intro.html#sub-content-1",
+    "title": "Enter Your Main Content",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-2",
+    "href": "intro.html#sub-content-2",
+    "title": "Enter Your Main Content",
+    "section": "",
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-3",
+    "href": "intro.html#sub-content-3",
+    "title": "Enter Your Main Content",
+    "section": "",
+    "text": "Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-1-1",
+    "href": "intro.html#sub-content-1-1",
+    "title": "Enter Your Main Content",
+    "section": "2.1 Sub Content 1",
+    "text": "2.1 Sub Content 1\n\n\n\n\n\n\nNoteNote\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-2-1",
+    "href": "intro.html#sub-content-2-1",
+    "title": "Enter Your Main Content",
+    "section": "2.2 Sub Content 2",
+    "text": "2.2 Sub Content 2\n\n\n\n\n\n\nTipTip\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-3-1",
+    "href": "intro.html#sub-content-3-1",
+    "title": "Enter Your Main Content",
+    "section": "2.3 Sub Content 3",
+    "text": "2.3 Sub Content 3\n\n\n\n\n\n\nWarningWarning\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-1-2",
+    "href": "intro.html#sub-content-1-2",
+    "title": "Enter Your Main Content",
+    "section": "3.1 Sub Content 1",
+    "text": "3.1 Sub Content 1\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-2-2",
+    "href": "intro.html#sub-content-2-2",
+    "title": "Enter Your Main Content",
+    "section": "3.2 Sub Content 2",
+    "text": "3.2 Sub Content 2\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-3-2",
+    "href": "intro.html#sub-content-3-2",
+    "title": "Enter Your Main Content",
+    "section": "3.3 Sub Content 3",
+    "text": "3.3 Sub Content 3\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-1-3",
+    "href": "intro.html#sub-content-1-3",
+    "title": "Enter Your Main Content",
+    "section": "4.1 Sub Content 1",
+    "text": "4.1 Sub Content 1",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-2-3",
+    "href": "intro.html#sub-content-2-3",
+    "title": "Enter Your Main Content",
+    "section": "4.2 Sub Content 2",
+    "text": "4.2 Sub Content 2",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-3-3",
+    "href": "intro.html#sub-content-3-3",
+    "title": "Enter Your Main Content",
+    "section": "4.3 Sub Content 3",
+    "text": "4.3 Sub Content 3",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-1-4",
+    "href": "intro.html#sub-content-1-4",
+    "title": "Enter Your Main Content",
+    "section": "5.1 Sub Content 1",
+    "text": "5.1 Sub Content 1",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-2-4",
+    "href": "intro.html#sub-content-2-4",
+    "title": "Enter Your Main Content",
+    "section": "5.2 Sub Content 2",
+    "text": "5.2 Sub Content 2",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-3-4",
+    "href": "intro.html#sub-content-3-4",
+    "title": "Enter Your Main Content",
+    "section": "5.3 Sub Content 3",
+    "text": "5.3 Sub Content 3",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-1-5",
+    "href": "intro.html#sub-content-1-5",
+    "title": "Enter Your Main Content",
+    "section": "6.1 Sub Content 1",
+    "text": "6.1 Sub Content 1",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-2-5",
+    "href": "intro.html#sub-content-2-5",
+    "title": "Enter Your Main Content",
+    "section": "6.2 Sub Content 2",
+    "text": "6.2 Sub Content 2",
+    "crumbs": [
+      "**INTRODUCTION**"
+    ]
+  },
+  {
+    "objectID": "intro.html#sub-content-3-5",
+    "href": "intro.html#sub-content-3-5",
+    "title": "Enter Your Main Content",
+    "section": "6.3 Sub Content 3",
+    "text": "6.3 Sub Content 3",
     "crumbs": [
       "**INTRODUCTION**"
     ]
@@ -12,100 +192,419 @@
   {
     "objectID": "chapter4.html",
     "href": "chapter4.html",
-    "title": "Publish dan Deploy Bookdown ke Github",
+    "title": "ENTER YOUR CONTENT",
     "section": "",
-    "text": "Pada tahap ini, kita akan mempelajari cara mengunggah project Quarto Book ke GitHub dan mempublikasikannya menggunakan GitHub Pages.\n\nTujuannya adalah agar buku digital yang sebelumnya hanya bisa dibuka melalui komputer sendiri dapat diakses secara online melalui sebuah link website.\n\nProsesnya dibagi menjadi dua bagian:\n\nPush ke GitHub: Mengunggah seluruh file project Quarto ke repository GitHub.\nDeploy ke GitHub Pages: Mengubah hasil render Quarto menjadi website HTML yang dapat diakses secara publik.\n\n\n\n1 Persiapan Awal\n\nInstall Git: Unduh dan install Git.\nKonfigurasi Identitas: Buka Git Bash, lalu masukkan nama dan email GitHub Anda:\n\n\n\n\n\n\n\nTipBuka Git Bash\n\n\n\ngit config --global user.name \"Username Github Kamu\"\ngit config --global user.email \"emailkamu@example.com\"\n\n\nCek apakah konfigurasi berhasil tersimpan:\n\ngit config --global --list\nHarusnya ada hasilnya seperti ini:\nuser.name=Muhammadrizkybagas\nuser.email=muhammadrizkybagas9@gmail.com\n\n\n\n\n\n2 Buat Repository Baru\nPertama, kita perlu membuat repository sebagai tempat penyimpanan project Quarto Book.\n\n\n\n\n\n\nNoteLangkah-langkah\n\n\n\n\nBuka browser dan kunjungi GitHub.\nLogin menggunakan akun GitHub.\nKlik tombol New Repository.\nIsi nama repository, misalnya Bookdown-Quarto.\nPilih visibility repository menjadi Public agar website dapat diakses secara publik.\nJangan centang Add README, .gitignore, atau License jika project sudah memiliki file sendiri.\nKlik Create Repository.`\n\n\n\n\n\n\n\n3 Menghubungkan Project RStudio\nSetelah repository berhasil dibuat, kita perlu menghubungkan folder project Quarto yang ada di komputer dengan repository GitHub.\n\n\n\n\n\n\nTipLangkah-langkah\n\n\n\n\nGunakan short cut Windows + R untuk membuka Command Prompt.\nPastikan path folder sudah direct ke folder bookdown quarto.\nJalankan perintah berikut:\n\ngit init\ngit add .\ngit commit -m \"Initial commit\nPerintah tersebut berfungsi untuk:\n\ngit init: Mengaktifkan Git pada folder project.\ngit add .: Menyiapkan seluruh file untuk diunggah.\ngit commit: Menyimpan perubahan project ke dalam riwayat Git.\n\nSelanjutnya, hubungkan project dengan repository GitHub yang sudah dibuat.\nSalin URL repository GitHub, kemudian jalankan:\ngit branch -M main\ngit remote add origin https://github.com/Muhammadrizkybagas/bookdown-template.git\ngit push -u origin main\n\n\n\n\n4 Render Project\nSebelum dipublikasikan, kita perlu memastikan seluruh materi dapat di-render dengan baik.\n\n\n\n\n\n\nTipLangkah-langkah\n\n\n\n\nBuka kembali Terminal di RStudio.\nPastikan terminal berada di direktori utama project.\nJalankan perintah:\n\nquarto render\n\n\nTekan Enter.\nTunggu hingga proses render selesai.\nPastikan tidak ada pesan error.\n\n\n\n\n\n5 Pubslih ke Github Pages\nSetelah proses render berhasil, kita akan mempublikasikan buku digital menggunakan perintah quarto publish gh-pages.\n\n\n\n\n\n\nTipLangkah-langkah\n\n\n\n\nPastikan Terminal masih berada di folder utama project.\nPastikan kita sedang berada di branch main, bukan gh-pages.\nJalankan perintah berikut:\n\nquarto publish gh-pages\n\n\nTekan Enter.\nJika muncul konfirmasi publikasi, ketik Y atau pilih Yes.\nTunggu sampai proses render dan publish selesai.\nJika diminta melakukan autentikasi GitHub, ikuti petunjuk yang muncul.\n\n\n\nApa yang terjadi ketika perintah dijalankan?\n\nQuarto melakukan render project.\nHasil HTML disiapkan untuk publikasi.\nQuarto membuat branch gh-pages jika belum tersedia.\nHasil website diunggah ke GitHub.\nGitHub Pages memproses website agar dapat diakses secara online.\n\n\n\n\n\n\n\nNoteCatatan\n\n\n\nPerlu diketahui bahwa quarto publish gh-pages secara default sudah melakukan render ulang. Jadi, quarto render sebelumnya berfungsi untuk memastikan project berhasil dibangun sebelum dipublikasikan.\n\n\n\n\n6 Update Website Jika Ada Perubahan\nJika mahasiswa melakukan perubahan materi atau menambahkan bab baru, website perlu diperbarui agar menampilkan versi terbaru.\n\n\n\n\n\n\nTipUpdate Website\n\n\n\nJalankan perintah berikut melalui Terminal RStudio:\n\nMenyimpan perubahan ke GitHub git add . git commit -m “Update materi Quarto Book” git push origin main\n\n\nRender dan publish ulang quarto render quarto publish gh-pages\n\n\n\nSetelah proses selesai, buka kembali URL GitHub Pages. Website akan menampilkan materi terbaru.\n\n\n7 Rangkuman Alur Publikasi\nWorkflow Publish Quarto Book\n\nBuat repository GitHub\nMenyiapkan tempat penyimpanan project.\nPush project ke GitHub\nMengunggah file .qmd, _quarto.yml, dan file pendukung ke branch main.\nRender project\nMenjalankan quarto render untuk menghasilkan HTML.\nPublish ke GitHub Pages\nMenjalankan quarto publish gh-pages untuk mengunggah hasil website.\nWebsite berhasil di-deploy\nBuku digital dapat diakses melalui URL GitHub Pages.\n\nPERINTAH UTAMA\nquarto render\nquarto publish gh-pages",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.\n\n\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nCurabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
     "crumbs": [
       "**BAB**",
-      "4. Publish Bookdown ke Github"
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-1",
+    "href": "chapter4.html#sub-content-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-2",
+    "href": "chapter4.html#sub-content-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-3",
+    "href": "chapter4.html#sub-content-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-1-1",
+    "href": "chapter4.html#sub-content-1-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.1 Sub Content 1",
+    "text": "2.1 Sub Content 1\n\n\n\n\n\n\nNoteNote\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-2-1",
+    "href": "chapter4.html#sub-content-2-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.2 Sub Content 2",
+    "text": "2.2 Sub Content 2\n\n\n\n\n\n\nTipTip\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-3-1",
+    "href": "chapter4.html#sub-content-3-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.3 Sub Content 3",
+    "text": "2.3 Sub Content 3\n\n\n\n\n\n\nWarningWarning\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-1-2",
+    "href": "chapter4.html#sub-content-1-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.1 Sub Content 1",
+    "text": "3.1 Sub Content 1\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-2-2",
+    "href": "chapter4.html#sub-content-2-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.2 Sub Content 2",
+    "text": "3.2 Sub Content 2\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-3-2",
+    "href": "chapter4.html#sub-content-3-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.3 Sub Content 3",
+    "text": "3.3 Sub Content 3\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-1-3",
+    "href": "chapter4.html#sub-content-1-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.1 Sub Content 1",
+    "text": "4.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-2-3",
+    "href": "chapter4.html#sub-content-2-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.2 Sub Content 2",
+    "text": "4.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-3-3",
+    "href": "chapter4.html#sub-content-3-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.3 Sub Content 3",
+    "text": "4.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-1-4",
+    "href": "chapter4.html#sub-content-1-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.1 Sub Content 1",
+    "text": "5.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-2-4",
+    "href": "chapter4.html#sub-content-2-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.2 Sub Content 2",
+    "text": "5.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-3-4",
+    "href": "chapter4.html#sub-content-3-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.3 Sub Content 3",
+    "text": "5.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-1-5",
+    "href": "chapter4.html#sub-content-1-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.1 Sub Content 1",
+    "text": "6.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-2-5",
+    "href": "chapter4.html#sub-content-2-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.2 Sub Content 2",
+    "text": "6.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#sub-content-3-5",
+    "href": "chapter4.html#sub-content-3-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.3 Sub Content 3",
+    "text": "6.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "4. Bab 4"
     ]
   },
   {
     "objectID": "chapter2.html",
     "href": "chapter2.html",
-    "title": "Memilih Visualisasi Yang Tepat",
+    "title": "ENTER YOUR CONTENT",
     "section": "",
-    "text": "Di bab ini kita tidak hanya belajar membuat grafik, tetapi belajar menjawab satu pertanyaan:\nSetelah bab ini, kamu bisa:",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.\n\n\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nCurabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
     "crumbs": [
       "**BAB**",
-      "2. Memilih Visualisai"
+      "2. Bab 2"
     ]
   },
   {
-    "objectID": "chapter2.html#dataset-yang-digunakan",
-    "href": "chapter2.html#dataset-yang-digunakan",
-    "title": "Memilih Visualisasi Yang Tepat",
-    "section": "1.1 Dataset yang Digunakan",
-    "text": "1.1 Dataset yang Digunakan\n\n\n\n\n\n\n\nDataset\nContoh variabel\n\n\n\n\nmeta-draftpick-ml.csv\nlane, priority_tier, hero_name\n\n\nplayers.csv\nrole, country, winnings\n\n\nstat-player.csv\ncurrent_ability, market_value_usd, star_power\n\n\nbuild-item.csv\nbattle_spell, item_1–item_6, role\n\n\ntournament.csv\nname_turnament, prize_pool, location\n\n\n\nPanggil library dan baca semua dataset sekali di awal. Gunakan raw URL seperti di Chapter 1.\n\nlibrary(tidyverse) # berisi ggplot2, dplyr, tidyr, stringr\nlibrary(scales) # untuk format angka (comma)\n\nurl_data &lt;- \"https://raw.githubusercontent.com/Muhammadrizkybagas/mlbb-dataset/refs/heads/main/data/\"\nmeta &lt;- read.csv(paste0(url_data, \"meta-draftpick-ml.csv\"))\nbuild &lt;- read.csv(paste0(url_data, \"build-item.csv\"))\nplayers &lt;- read.csv(paste0(url_data, \"players.csv\"))\nstat &lt;- read.csv(paste0(url_data, \"stat-player.csv\"))\n\n\n# nama kolom di stat-player.csv\nstat &lt;- stat %&gt;%\n  rename(\n    role = player_info_role,\n    current_ability = hidden_and_non_technical_hidden_current_ability,\n    market_value_usd = hidden_and_non_technical_business_market_value_usd\n )\n\n\n\n\n\n\n\nWarningPerhatikan\n\n\n\nJika library(tidyverse) belum terpasang, jalankan sekali di Console: install.packages(\"tidyverse\"). Untuk scales sama: install.packages(\"scales\").",
+    "objectID": "chapter2.html#sub-content-1",
+    "href": "chapter2.html#sub-content-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     "crumbs": [
       "**BAB**",
-      "2. Memilih Visualisai"
+      "2. Bab 2"
     ]
   },
   {
-    "objectID": "chapter2.html#bar-chart",
-    "href": "chapter2.html#bar-chart",
-    "title": "Memilih Visualisasi Yang Tepat",
-    "section": "2.1 Bar Chart",
-    "text": "2.1 Bar Chart\n\n\n\n\n\n\nNoteBar Chart\n\n\n\nMembandingkan nilai antar kategori. Cocok untuk pertanyaan: mana yang paling banyak? mana yang paling sedikit? bagaimana perbedaan antar kategori?\n\n\n\n2.1.1 Hero S-Tier di Setiap Lane\n\n“Lane mana yang memiliki hero S-Tier paling banyak?”\n\n\n# filter hero S-Tier, lalu hitung jumlahnya per lane\nlane_s &lt;- meta %&gt;%\n  filter(priority_tier == \"S-Tier\") %&gt;%\n  count(lane)\n\nggplot(lane_s, aes(x = reorder(lane, -n), y = n)) +\n  geom_col(fill = \"#007AB8\") +\n  geom_text(aes(label = n), vjust = -0.3) +\n  labs(\n    title = \"Jumlah Hero S-Tier di Setiap Lane\",\n    x = \"Lane\",\n    y = \"Jumlah Hero\"\n )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteHasil\n\n\n\nJungler dan Roamer punya hero S-Tier terbanyak (masing-masing 5), disusul gold lane (4), lalu exp lane dan mid lane (masing-masing 3). Dengan bar chart, perbandingan ini terbaca sekilas, tidak perlu membaca daftar hero satu per satu.\n\n\n\n\n\n2.1.2 Item yang Sering Dipakai\n\n“Item apa yang paling sering muncul di build hero?”\n\n\nitem_count &lt;- build %&gt;%\n  select(starts_with(\"item_\")) %&gt;%                          # ambil kolom item_1 - item_6\n  pivot_longer(cols = everything(),\n               names_to = \"slot\", values_to = \"item\") %&gt;%\n  filter(!is.na(item), item != \"\") %&gt;%                      # buang item kosong\n  count(item, sort = TRUE) %&gt;%                              # hitung tiap item\n  slice_head(n = 10)                                        # ambil 10 teratas\n\n\nggplot(item_count, aes(x = reorder(item, n), y = n)) +\n  geom_col(fill = \"#2E75B6\") +\n  geom_text(aes(label = n), hjust = -0.2) +\n  coord_flip() +                                            # jadikan batang horizontal\n  expand_limits(y = max(item_count$n) * 1.1) +              # beri ruang untuk label angka\n  labs(title = \"10 Item yang Paling Sering Muncul\",\n       x = \"Item\", y = \"Frekuensi\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteHasil\n\n\n\nTough Boots paling sering muncul (89 kali), disusul Holy Crystal (77) dan Oracle (74).\n\n\n\n\n\n\n\n\nWarningPenting\n\n\n\nKalau nama kategori panjang (seperti nama item), gunakan bar chart horizontal dengan coord_flip() agar label tidak bertabrakan.",
+    "objectID": "chapter2.html#sub-content-2",
+    "href": "chapter2.html#sub-content-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "crumbs": [
       "**BAB**",
-      "2. Memilih Visualisai"
+      "2. Bab 2"
     ]
   },
   {
-    "objectID": "chapter2.html#histogram",
-    "href": "chapter2.html#histogram",
-    "title": "Memilih Visualisasi Yang Tepat",
-    "section": "2.2 Histogram",
-    "text": "2.2 Histogram\n\n\n\n\n\n\nNoteHistogram\n\n\n\nMelihat sebaran data angka: di rentang mana data paling banyak, apakah simetris atau miring, dan apakah ada nilai yang menonjol.\n\n\n\n“Bagaimana sebaran current ability para pemain?”\n\n\nggplot(stat, aes(x = current_ability)) +\n  geom_histogram(binwidth = 5, boundary = 120,\n                 fill = \"#007AB8\", color = \"white\") +\n  \n labs(\n  title = \"Sebaran Current Ability Pemain\",\n  x = \"Current Ability\",\n  y = \"Jumlah Pemain\"\n )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteHasil\n\n\n\nCurrent ability berkisar 120 sampai 192. Kebanyakan pemain ada di kisaran 140-165 dengan puncak sekitar nilai 150, lalu makin tinggi ability makin sedikit pemainnya. Ada lonjakan kecil di ujung kanan (sekitar 190-195).\n\n\n\n\n\n\n\n\nWarningCoba Sendiri\n\n\n\nUbah binwidth menjadi 2 dan 10. Bin terlalu kecil membuat grafik bergerigi, bin terlalu besar menyembunyikan bentuk sebaran. Pilih yang paling jelas menunjukkan pola.\n\n\n\n2.2.1 Histogram dan Barchart\nKeduanya sama-sama berbentuk batang, jadi sering tertukar. Bedanya ada pada data di sumbu x.\n\n\n\n\n\n\n\n\n\n\nBar chart\nHistogram\n\n\n\n\nData di sumbu x\nKategori (teks), misal negara atau role\nAngka yang dikelompokkan jadi rentang (bin)\n\n\nJarak antar batang\nAda jarak\nMenempel, tanpa jarak\n\n\nUrutan batang\nBoleh diurutkan bebas (misal dari terbesar)\nTetap mengikuti urutan angka\n\n\nTujuan\nMembandingkan kategori\nMelihat bentuk sebaran data\n\n\nFungsi ggplot2\ngeom_col() atau geom_bar()\ngeom_histogram()\n\n\nContoh\nJumlah pemain per negara\nSebaran current ability\n\n\n\n\n\n\n\n\n\nTipCara Cepat Membedakan\n\n\n\nTanya: sumbu x-nya kategori atau angka? Kategori = bar chart. Angka kontinu = histogram.",
+    "objectID": "chapter2.html#sub-content-3",
+    "href": "chapter2.html#sub-content-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
     "crumbs": [
       "**BAB**",
-      "2. Memilih Visualisai"
+      "2. Bab 2"
     ]
   },
   {
-    "objectID": "chapter2.html#pie-chart-dan-donut-chart",
-    "href": "chapter2.html#pie-chart-dan-donut-chart",
-    "title": "Memilih Visualisasi Yang Tepat",
-    "section": "2.3 Pie Chart dan Donut Chart",
-    "text": "2.3 Pie Chart dan Donut Chart\n\n\n\n\n\n\nNotePie Chart dan Donut Chart\n\n\n\nmenunjukkan proporsi tiap bagian terhadap total (100%). Cocok kalau kategorinya sedikit, maksimal 5-6, dan kita hanya ingin melihat bagian mana yang dominan.\n\n\n\n“Bagaimana komposisi role hero dalam dataset build?”\n\n\n2.3.1 Pie Chart\nSatu build bisa punya dua role (contoh: Fighter, Assassin). Kita pisahkan dulu dengan separate_rows(), sehingga build itu dihitung di kedua role.\n\nrole_count &lt;- build %&gt;%\n  separate_rows(role, sep = \",\\\\s*\") %&gt;% # pisahkan role yang berisi dua nilai\n  count(role) %&gt;%\n  mutate(persen = n / sum(n) * 100)\n\n\n# Pie chart\nggplot(role_count, aes(x = \"\", y = n, fill = role)) +\n  geom_col(width = 1, color = \"white\") +\n  geom_text(aes(label = paste0(round(persen, 1), \"%\")),\n            position = position_stack(vjust = 0.5), color = \"white\") +\n  coord_polar(theta = \"y\") +\n  labs(title = \"Proporsi Role Hero dalam Dataset Build\", fill = \"Role\") +\n  theme_void()\n\n\n\n\n\n\n\n\n\n\n2.3.2 Donut Chart\nUbah x = \"\" menjadi x = 2, lalu tambahkan xlim(0.5, 2.5) di bawah coord_polar().\n\nggplot(role_count, aes(x = 2, y = n, fill = role)) +\n  geom_col(width = 1, color = \"white\") +\n  geom_text(aes(label = paste0(round(persen, 1), \"%\")),\n            position = position_stack(vjust = 0.5), color = \"white\") +\n  coord_polar(theta = \"y\") +\n  xlim(0.5, 2.5) +\n  labs(title = \"Proporsi Role Hero dalam Dataset Build\", fill = \"Role\") +\n  theme_void()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteHasil\n\n\n\nFighter paling dominan (27,6%), diikuti Mage (18,1%) dan Assassin (17,9%). Support paling kecil (8,2%).\n\n\n\n\n\n\n\n\nWarningIngat\n\n\n\nKapan jangan pakai pie? Kalau kategori lebih dari 6, atau selisih antar bagian kecil dan perlu dibandingkan teliti.",
+    "objectID": "chapter2.html#sub-content-1-1",
+    "href": "chapter2.html#sub-content-1-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.1 Sub Content 1",
+    "text": "2.1 Sub Content 1\n\n\n\n\n\n\nNoteNote\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     "crumbs": [
       "**BAB**",
-      "2. Memilih Visualisai"
+      "2. Bab 2"
     ]
   },
   {
-    "objectID": "chapter2.html#line-chart",
-    "href": "chapter2.html#line-chart",
-    "title": "Memilih Visualisasi Yang Tepat",
-    "section": "2.4 Line Chart",
-    "text": "2.4 Line Chart\n\n\n\n\n\n\nNoteLine Chart\n\n\n\nMenunjukkan perubahan atau pola berdasarkan urutan yang bermakna, terutama waktu. Garis menghubungkan titik-titik yang berurutan.\n\n\n\n“Bagaimana jumlah pemain berubah dari tahun lahir ke tahun lahir?”\n\nKolom birthday berisi teks seperti October 13, 2005 (age 20). Kita ambil 4 angka tahunnya dengan str_extract().\n\nbirth &lt;- players %&gt;%\n  mutate(tahun_lahir = as.numeric(str_extract(birthday, \"\\\\d{4}\"))) %&gt;%\n  filter(!is.na(tahun_lahir), tahun_lahir &gt;= 1994) %&gt;% # sebelum 1994 datanya sangat sedikit\n  count(tahun_lahir)\n\n\nggplot(birth, aes(x = tahun_lahir, y = n)) +\n  geom_line(color = \"#2E75B6\", linewidth = 1.2) +\n  geom_point(color = \"#2E75B6\", size = 3) +\n  scale_x_continuous(breaks = seq(1994, 2010, by = 2)) +\n  labs(\n    title = \"Jumlah Pemain Berdasarkan Tahun Lahir\",\n    x = \"Tahun Lahir\",\n    y = \"Jumlah Pemain\"\n )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteHasil\n\n\n\njumlah pemain naik dari kelahiran 1994 sampai puncaknya di 2004 (115 pemain), lalu turun. Data ini hanya mencakup pemain yang mencantumkan tanggal lahir (694 pemain).\n\n\n\n\n\n\n\n\nWarningSyarat Line Chart\n\n\n\nSumbu x harus berurutan (waktu atau angka). Jangan pakai untuk kategori yang tidak berurutan, misalnya jumlah hero per lane.",
+    "objectID": "chapter2.html#sub-content-2-1",
+    "href": "chapter2.html#sub-content-2-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.2 Sub Content 2",
+    "text": "2.2 Sub Content 2\n\n\n\n\n\n\nTipTip\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     "crumbs": [
       "**BAB**",
-      "2. Memilih Visualisai"
+      "2. Bab 2"
     ]
   },
   {
-    "objectID": "chapter2.html#scatter-plot",
-    "href": "chapter2.html#scatter-plot",
-    "title": "Memilih Visualisasi Yang Tepat",
-    "section": "2.5 Scatter Plot",
-    "text": "2.5 Scatter Plot\n\n\n\n\n\n\nNoteLine Chart\n\n\n\nMelihat hubungan antara dua variabel angka. Setiap titik mewakili satu data (di sini, satu pemain).\n\n\n\n“Apakah pemain dengan kemampuan lebih tinggi memiliki market value yang lebih besar?”\n\n\nggplot(stat, aes(x = current_ability, y = market_value_usd)) +\n  geom_point(alpha = 0.4, color = \"#2E75B6\") +\n  geom_smooth(method = \"lm\", se = FALSE, color = \"#E4572E\") +   # garis tren\n  scale_y_log10(labels = comma) +                               # skala log di sumbu y\n  labs(\n    title = \"Current Ability vs Market Value\",\n    x = \"Current Ability\",\n    y = \"Market Value (USD, skala log)\"\n )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteHasil\n\n\n\nTitik-titik naik dari kiri bawah ke kanan atas. Artinya makin tinggi current ability, makin tinggi market value (hubungan positif yang kuat).\n\n\n\n\n\n\n\n\nWarningHati-hati\n\n\n\nHubungan antara dua angka belum tentu sebab-akibat. Scatter plot hanya menunjukkan bahwa keduanya bergerak bersama.",
+    "objectID": "chapter2.html#sub-content-3-1",
+    "href": "chapter2.html#sub-content-3-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.3 Sub Content 3",
+    "text": "2.3 Sub Content 3\n\n\n\n\n\n\nWarningWarning\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     "crumbs": [
       "**BAB**",
-      "2. Memilih Visualisai"
+      "2. Bab 2"
     ]
   },
   {
-    "objectID": "chapter2.html#box-plot",
-    "href": "chapter2.html#box-plot",
-    "title": "Memilih Visualisasi Yang Tepat",
-    "section": "2.6 Box Plot",
-    "text": "2.6 Box Plot\n\n\n\n\n\n\nNoteBox Plot\n\n\n\nMelihat hubungan antara dua variabel angka. Setiap titik mewakili satu data (di sini, satu pemain).\n\n\n\n“Apakah current ability berbeda antar role pemain?”\n\n\nrole_utama &lt;- c(\"Roamer\", \"Mid Laner\", \"EXP Laner\", \"Gold Laner\", \"Jungler\")\n\n\nstat %&gt;%\n  filter(role %in% role_utama) %&gt;%\n  ggplot(aes(x = role, y = current_ability)) +\n  geom_boxplot(fill = \"#9CC3E6\") +\n  labs(\n    title = \"Current Ability Pemain per Role\",\n    x = \"Role\",\n    y = \"Current Ability\"\n )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipCara Membaca Box Plot\n\n\n\n\nKotak = 50% data di tengah (dari kuartil 1 sampai kuartil 3).\nGaris tebal di dalam kotak = median (nilai tengah).\nGaris di atas dan bawah kotak = rentang data yang wajar.\nTitik terpisah = outlier, yaitu nilai yang jauh dari kebanyakan data.\n\n\n\n\n\n\n\n\n\nNoteHasil\n\n\n\nKelima role punya median yang hampir sama (sekitar 152-154). Jadi role pemain tidak membuat current ability berbeda jauh. Titik-titik di bagian atas adalah pemain dengan ability sangat tinggi.",
+    "objectID": "chapter2.html#sub-content-1-2",
+    "href": "chapter2.html#sub-content-1-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.1 Sub Content 1",
+    "text": "3.1 Sub Content 1\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     "crumbs": [
       "**BAB**",
-      "2. Memilih Visualisai"
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-2-2",
+    "href": "chapter2.html#sub-content-2-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.2 Sub Content 2",
+    "text": "3.2 Sub Content 2\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-3-2",
+    "href": "chapter2.html#sub-content-3-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.3 Sub Content 3",
+    "text": "3.3 Sub Content 3\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-1-3",
+    "href": "chapter2.html#sub-content-1-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.1 Sub Content 1",
+    "text": "4.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-2-3",
+    "href": "chapter2.html#sub-content-2-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.2 Sub Content 2",
+    "text": "4.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-3-3",
+    "href": "chapter2.html#sub-content-3-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.3 Sub Content 3",
+    "text": "4.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-1-4",
+    "href": "chapter2.html#sub-content-1-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.1 Sub Content 1",
+    "text": "5.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-2-4",
+    "href": "chapter2.html#sub-content-2-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.2 Sub Content 2",
+    "text": "5.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-3-4",
+    "href": "chapter2.html#sub-content-3-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.3 Sub Content 3",
+    "text": "5.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-1-5",
+    "href": "chapter2.html#sub-content-1-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.1 Sub Content 1",
+    "text": "6.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-2-5",
+    "href": "chapter2.html#sub-content-2-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.2 Sub Content 2",
+    "text": "6.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#sub-content-3-5",
+    "href": "chapter2.html#sub-content-3-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.3 Sub Content 3",
+    "text": "6.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "2. Bab 2"
     ]
   },
   {
@@ -118,117 +617,6 @@
       "**BAB**",
       "1. Bab 1"
     ]
-  },
-  {
-    "objectID": "chapter3.html",
-    "href": "chapter3.html",
-    "title": "Bagaimana Membuat Format Bookdown di RStudio",
-    "section": "",
-    "text": "Berbeda dengan Bookdown yang menggunakan R Markdown (.Rmd), pada tutorial ini kita akan menggunakan format .qmd dan konfigurasi Quarto melalui file _quarto.yml.",
-    "crumbs": [
-      "**BAB**",
-      "3. Bookdown di Rstudio"
-    ]
-  },
-  {
-    "objectID": "chapter3.html#download-dan-install-quarto",
-    "href": "chapter3.html#download-dan-install-quarto",
-    "title": "Bagaimana Membuat Format Bookdown di RStudio",
-    "section": "1.1 Download dan Install Quarto",
-    "text": "1.1 Download dan Install Quarto\nQuarto → perangkat lunak yang digunakan untuk mengolah file .qmd menjadi dokumen HTML, PDF, website, maupun buku digital.\n\n\n\n\n\n\nNoteCara Instalasi\n\n\n\n\nBuka browser (Chrome atau browser lainnya).\nKunjungi website resmi Quarto: Download Quarto.\nPilih installer sesuai sistem operasi. Karena menggunakan Windows, pilih Windows Installer (.msi).\nTunggu sampai proses download selesai.\nBuka file installer yang sudah diunduh.\nIkuti proses instalasi dengan menekan tombol Next hingga selesai.\nSetelah instalasi selesai, Quarto sudah bisa digunakan.",
-    "crumbs": [
-      "**BAB**",
-      "3. Bookdown di Rstudio"
-    ]
-  },
-  {
-    "objectID": "chapter3.html#pastikan-quarto-terintegrasi-dengan-rstudio",
-    "href": "chapter3.html#pastikan-quarto-terintegrasi-dengan-rstudio",
-    "title": "Bagaimana Membuat Format Bookdown di RStudio",
-    "section": "1.2 Pastikan Quarto Terintegrasi dengan RStudio",
-    "text": "1.2 Pastikan Quarto Terintegrasi dengan RStudio\nSetelah Quarto berhasil diinstal, langkah berikutnya adalah memastikan RStudio dapat mengenali Quarto.\n\n\n\n\n\n\nTipCek Quarto di RStudio\n\n\n\n\nBuka aplikasi RStudio.\nPilih menu Tools → Terminal → New Terminal.\nKetik perintah berikut:\n\nquarto --version\n\nTekan Enter.\nJika berhasil, terminal akan menampilkan nomor versi Quarto yang terinstal.\n\n1.10.18\n\n\n\n\nJika nomor versi muncul, berarti Quarto sudah berhasil terinstal dan dapat dikenali oleh sistem.\n\n\n\n\n\n\n\nWarningPerhatikan\n\n\n\nJika muncul pesan quarto is not recognized, tutup dan buka kembali RStudio. Jika masih terjadi, periksa instalasi dan PATH Quarto di Windows.\nPackages yang perlu di install:\n\nBookdown\nQuarto",
-    "crumbs": [
-      "**BAB**",
-      "3. Bookdown di Rstudio"
-    ]
-  },
-  {
-    "objectID": "chapter3.html#membuat-projek-baru",
-    "href": "chapter3.html#membuat-projek-baru",
-    "title": "Bagaimana Membuat Format Bookdown di RStudio",
-    "section": "1.3 Membuat Projek Baru",
-    "text": "1.3 Membuat Projek Baru\nSelanjutnya, kita akan membuat project khusus untuk menyimpan seluruh file buku digital.\n\n\n\n\n\n\nTipLangkah-langkah\n\n\n\n\nBuka RStudio\nKlik menu File → New Project.\n\n\n\nPilih New Directory.\n\n\n\nPilih Quarto Book Project jika tersedia pada versi RStudio yang digunakan.\n\n\n\nIsi nama project, misalnya:\n\n\n\nTentukan lokasi penyimpanan project.\nKlik Create Project.\n\n\n\n\nSetelah project berhasil dibuat, RStudio akan membuka project tersebut secara otomatis.\n\n\n\n\n\n\n\nWarningPerhatikan\n\n\n\nJika pilihan Quarto Book tidak tersedia, kita tetap bisa membuat project kosong melalui New Directory, kemudian menambahkan konfigurasi Quarto secara manual pada tahap berikutnya.",
-    "crumbs": [
-      "**BAB**",
-      "3. Bookdown di Rstudio"
-    ]
-  },
-  {
-    "objectID": "chapter3.html#render-digital-book",
-    "href": "chapter3.html#render-digital-book",
-    "title": "Bagaimana Membuat Format Bookdown di RStudio",
-    "section": "1.4 Render Digital Book",
-    "text": "1.4 Render Digital Book\nSetelah semua file selesai dibuat, langkah selanjutnya adalah melakukan proses Render untuk mengubah seluruh file .qmd menjadi buku digital berbentuk HTML.\n\n\n\n\n\n\nTipCara Render\n\n\n\n\nBuka salah satu file .qmd di RStudio.\nKlik tombol Render pada bagian atas Source Editor.\nTunggu sampai proses selesai.\nHasil dokumen akan ditampilkan melalui Viewer atau browser sesuai pengaturan RStudio.",
-    "crumbs": [
-      "**BAB**",
-      "3. Bookdown di Rstudio"
-    ]
-  },
-  {
-    "objectID": "chapter5.html",
-    "href": "chapter5.html",
-    "title": "Seven Tools Analysis",
-    "section": "",
-    "text": "NoteDefinisi\n\n\n\nDefinisi: 7 QC Tools (Seven Quality Control Tools), metode statistik sederhana yang digunakan secara sistematis mengidentifikasi, menganalisis, dan menyelesaikan masalah yang berkaitan dengan kualitas.\n\n\n\n\n\n\n\n\n\n\nFigure 1: Gambaran Umum 7 QC Tools dengan Pendekatan 5W + 1H\n\n\n\n\n\n\n\n7 QC Tools → tujuh alat statistik dasar yang digunakan untuk membantu mengidentifikasi, menganalisis, dan menyelesaikan masalah kualitas secara sistematis.\nKetujuh alat tersebut adalah:\n\nCheck Sheet – Lembar untuk mencatat dan mengumpulkan data.\nHistogram – Grafik untuk melihat persebaran data.\nPareto Chart – Grafik untuk mengetahui masalah yang paling dominan.\nFishbone Diagram – Diagram untuk mencari kemungkinan penyebab suatu masalah.\nScatter Diagram – Grafik untuk melihat hubungan antara dua variabel.\nControl Chart – Grafik untuk memantau kestabilan suatu proses.\nFlowchart – Diagram untuk menggambarkan tahapan suatu proses.\n\n\n\n\nMengapa kita perlu mempelajari dan menggunakan 7 QC Tools?\nBerikut beberapa alasannya:\n\nMudah digunakan: Alat-alat ini relatif mudah dipahami, bahkan oleh orang yang belum memiliki latar belakang statistik.\nBerdasarkan data: Membantu kita mengambil keputusan berdasarkan fakta, bukan sekadar dugaan.\nMembantu menemukan masalah: Mempermudah kita mengetahui masalah yang sedang terjadi.\nMeningkatkan efisiensi: Membantu menemukan bagian proses yang perlu diperbaiki.\nMeningkatkan kualitas: Membantu organisasi meningkatkan kualitas produk maupun pelayanan sehingga kepuasan pelanggan juga meningkat.\n\nContohnya, daripada langsung menyimpulkan bahwa keterlambatan pengiriman disebabkan oleh kurir, kita dapat mengumpulkan data terlebih dahulu untuk mengetahui penyebab sebenarnya.\n\n\n\n7 QC Tools tidak hanya digunakan oleh perusahaan besar atau orang yang bekerja di bidang pengendalian kualitas.\nBeberapa pihak yang dapat menggunakannya antara lain:\n\nQuality Manager: Orang yang bertanggung jawab terhadap pengelolaan kualitas.\nProduction Operator: Pekerja yang terlibat langsung dalam proses produksi.\nSupervisor: Orang yang mengawasi jalannya suatu proses.\nKaizen Team: Tim yang berfokus pada perbaikan secara berkelanjutan.\nAuditor: Orang yang melakukan pemeriksaan atau evaluasi terhadap suatu proses.\nProfesional dari berbagai bidang: Misalnya bidang pendidikan, kesehatan, pelayanan publik, dan lainnya.\n\nArtinya, siapa pun yang ingin memahami dan memperbaiki suatu masalah dapat memanfaatkan 7 QC Tools.\n\n\n\nPenerapan 7 QC Tools tidak terbatas pada perusahaan manufaktur atau pabrik saja.\nBeberapa contoh penerapannya adalah:\n\nIndustri Manufaktur: Memeriksa jumlah produk cacat selama proses produksi.\nRumah Sakit: Menganalisis penyebab lamanya waktu pelayanan pasien.\nPerusahaan Jasa: Menganalisis penyebab keterlambatan pelayanan pelanggan.\nInstitusi Pendidikan: Mengevaluasi proses pembelajaran dan kehadiran mahasiswa.\nInstansi Pemerintahan: Memantau kualitas pelayanan administrasi kepada masyarakat.\n\n\n\n\n7 QC Tools dapat digunakan ketika kita menghadapi kondisi seperti:\n\nKetika masalah kualitas terjadi secara berulang.\nKetika organisasi ingin melakukan perbaikan secara berkelanjutan.\nKetika ingin mengetahui akar penyebab suatu masalah (Root Cause Analysis).\nKetika melakukan pemeriksaan atau audit kualitas.\nKetika organisasi perlu menentukan tindakan perbaikan dan pencegahan atau CAPA (Corrective and Preventive Actions).\n\n\n\n\nSecara umum, penggunaan 7 QC Tools dapat dilakukan melalui beberapa tahapan berikut:\n\nMengumpulkan data: Catat informasi yang berkaitan dengan masalah yang sedang terjadi.\nMemilih alat yang sesuai: Tentukan QC Tool berdasarkan tujuan analisis.\nMenyajikan data: Buat tabel, grafik, atau diagram menggunakan data yang telah dikumpulkan.\nMenganalisis data: Perhatikan pola, frekuensi, hubungan, dan perubahan yang terjadi.\nMenemukan penyebab masalah: Identifikasi faktor-faktor yang kemungkinan menjadi penyebab masalah.\nMenentukan solusi: Buat rencana perbaikan berdasarkan hasil analisis.\nMelakukan evaluasi: Pantau apakah solusi yang diterapkan berhasil memperbaiki kondisi sebelumnya.\n\n\n\n\n7 QC Tools dapat digunakan untuk membantu organisasi menemukan masalah, mengetahui penyebabnya, dan menentukan solusi berdasarkan data.\nSebagai contoh, kita gunakan kasus keterlambatan pengiriman barang.\nPertama, perusahaan menggunakan Check Sheet (Lembar Periksa) untuk mencatat data keterlambatan, seperti tanggal, waktu, dan penyebabnya. Selanjutnya, data dianalisis menggunakan Histogram untuk melihat pola keterlambatan dan Pareto Chart (Bagan Pareto) untuk mengetahui penyebab yang paling sering terjadi.\nSetelah itu, Fishbone Diagram (Diagram Tulang Ikan) digunakan untuk mencari kemungkinan penyebab masalah berdasarkan faktor Manusia, Mesin, Metode, Material, dan Lingkungan. Scatter Diagram (Diagram Sebar) membantu melihat hubungan antara faktor tertentu dengan keterlambatan, sedangkan Control Chart (Bagan Kontrol) digunakan untuk memantau kestabilan proses pengiriman.\nTerakhir, Flowchart (Bagan Alur) digunakan untuk menggambarkan tahapan proses pengiriman dan membantu menemukan bagian yang berpotensi menimbulkan masalah."
-  },
-  {
-    "objectID": "chapter5.html#what",
-    "href": "chapter5.html#what",
-    "title": "Seven Tools Analysis",
-    "section": "",
-    "text": "7 QC Tools → tujuh alat statistik dasar yang digunakan untuk membantu mengidentifikasi, menganalisis, dan menyelesaikan masalah kualitas secara sistematis.\nKetujuh alat tersebut adalah:\n\nCheck Sheet – Lembar untuk mencatat dan mengumpulkan data.\nHistogram – Grafik untuk melihat persebaran data.\nPareto Chart – Grafik untuk mengetahui masalah yang paling dominan.\nFishbone Diagram – Diagram untuk mencari kemungkinan penyebab suatu masalah.\nScatter Diagram – Grafik untuk melihat hubungan antara dua variabel.\nControl Chart – Grafik untuk memantau kestabilan suatu proses.\nFlowchart – Diagram untuk menggambarkan tahapan suatu proses."
-  },
-  {
-    "objectID": "chapter5.html#why",
-    "href": "chapter5.html#why",
-    "title": "Seven Tools Analysis",
-    "section": "",
-    "text": "Mengapa kita perlu mempelajari dan menggunakan 7 QC Tools?\nBerikut beberapa alasannya:\n\nMudah digunakan: Alat-alat ini relatif mudah dipahami, bahkan oleh orang yang belum memiliki latar belakang statistik.\nBerdasarkan data: Membantu kita mengambil keputusan berdasarkan fakta, bukan sekadar dugaan.\nMembantu menemukan masalah: Mempermudah kita mengetahui masalah yang sedang terjadi.\nMeningkatkan efisiensi: Membantu menemukan bagian proses yang perlu diperbaiki.\nMeningkatkan kualitas: Membantu organisasi meningkatkan kualitas produk maupun pelayanan sehingga kepuasan pelanggan juga meningkat.\n\nContohnya, daripada langsung menyimpulkan bahwa keterlambatan pengiriman disebabkan oleh kurir, kita dapat mengumpulkan data terlebih dahulu untuk mengetahui penyebab sebenarnya."
-  },
-  {
-    "objectID": "chapter5.html#who",
-    "href": "chapter5.html#who",
-    "title": "Seven Tools Analysis",
-    "section": "",
-    "text": "7 QC Tools tidak hanya digunakan oleh perusahaan besar atau orang yang bekerja di bidang pengendalian kualitas.\nBeberapa pihak yang dapat menggunakannya antara lain:\n\nQuality Manager: Orang yang bertanggung jawab terhadap pengelolaan kualitas.\nProduction Operator: Pekerja yang terlibat langsung dalam proses produksi.\nSupervisor: Orang yang mengawasi jalannya suatu proses.\nKaizen Team: Tim yang berfokus pada perbaikan secara berkelanjutan.\nAuditor: Orang yang melakukan pemeriksaan atau evaluasi terhadap suatu proses.\nProfesional dari berbagai bidang: Misalnya bidang pendidikan, kesehatan, pelayanan publik, dan lainnya.\n\nArtinya, siapa pun yang ingin memahami dan memperbaiki suatu masalah dapat memanfaatkan 7 QC Tools."
-  },
-  {
-    "objectID": "chapter5.html#where",
-    "href": "chapter5.html#where",
-    "title": "Seven Tools Analysis",
-    "section": "",
-    "text": "Penerapan 7 QC Tools tidak terbatas pada perusahaan manufaktur atau pabrik saja.\nBeberapa contoh penerapannya adalah:\n\nIndustri Manufaktur: Memeriksa jumlah produk cacat selama proses produksi.\nRumah Sakit: Menganalisis penyebab lamanya waktu pelayanan pasien.\nPerusahaan Jasa: Menganalisis penyebab keterlambatan pelayanan pelanggan.\nInstitusi Pendidikan: Mengevaluasi proses pembelajaran dan kehadiran mahasiswa.\nInstansi Pemerintahan: Memantau kualitas pelayanan administrasi kepada masyarakat."
-  },
-  {
-    "objectID": "chapter5.html#when",
-    "href": "chapter5.html#when",
-    "title": "Seven Tools Analysis",
-    "section": "",
-    "text": "7 QC Tools dapat digunakan ketika kita menghadapi kondisi seperti:\n\nKetika masalah kualitas terjadi secara berulang.\nKetika organisasi ingin melakukan perbaikan secara berkelanjutan.\nKetika ingin mengetahui akar penyebab suatu masalah (Root Cause Analysis).\nKetika melakukan pemeriksaan atau audit kualitas.\nKetika organisasi perlu menentukan tindakan perbaikan dan pencegahan atau CAPA (Corrective and Preventive Actions)."
-  },
-  {
-    "objectID": "chapter5.html#how",
-    "href": "chapter5.html#how",
-    "title": "Seven Tools Analysis",
-    "section": "",
-    "text": "Secara umum, penggunaan 7 QC Tools dapat dilakukan melalui beberapa tahapan berikut:\n\nMengumpulkan data: Catat informasi yang berkaitan dengan masalah yang sedang terjadi.\nMemilih alat yang sesuai: Tentukan QC Tool berdasarkan tujuan analisis.\nMenyajikan data: Buat tabel, grafik, atau diagram menggunakan data yang telah dikumpulkan.\nMenganalisis data: Perhatikan pola, frekuensi, hubungan, dan perubahan yang terjadi.\nMenemukan penyebab masalah: Identifikasi faktor-faktor yang kemungkinan menjadi penyebab masalah.\nMenentukan solusi: Buat rencana perbaikan berdasarkan hasil analisis.\nMelakukan evaluasi: Pantau apakah solusi yang diterapkan berhasil memperbaiki kondisi sebelumnya."
-  },
-  {
-    "objectID": "chapter5.html#penerapan-7-alat-qc",
-    "href": "chapter5.html#penerapan-7-alat-qc",
-    "title": "Seven Tools Analysis",
-    "section": "",
-    "text": "7 QC Tools dapat digunakan untuk membantu organisasi menemukan masalah, mengetahui penyebabnya, dan menentukan solusi berdasarkan data.\nSebagai contoh, kita gunakan kasus keterlambatan pengiriman barang.\nPertama, perusahaan menggunakan Check Sheet (Lembar Periksa) untuk mencatat data keterlambatan, seperti tanggal, waktu, dan penyebabnya. Selanjutnya, data dianalisis menggunakan Histogram untuk melihat pola keterlambatan dan Pareto Chart (Bagan Pareto) untuk mengetahui penyebab yang paling sering terjadi.\nSetelah itu, Fishbone Diagram (Diagram Tulang Ikan) digunakan untuk mencari kemungkinan penyebab masalah berdasarkan faktor Manusia, Mesin, Metode, Material, dan Lingkungan. Scatter Diagram (Diagram Sebar) membantu melihat hubungan antara faktor tertentu dengan keterlambatan, sedangkan Control Chart (Bagan Kontrol) digunakan untuk memantau kestabilan proses pengiriman.\nTerakhir, Flowchart (Bagan Alur) digunakan untuk menggambarkan tahapan proses pengiriman dan membantu menemukan bagian yang berpotensi menimbulkan masalah."
   },
   {
     "objectID": "chapter1.html#sub-content-1",
@@ -426,6 +814,424 @@
     "crumbs": [
       "**BAB**",
       "1. Bab 1"
+    ]
+  },
+  {
+    "objectID": "chapter3.html",
+    "href": "chapter3.html",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.\n\n\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nCurabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-1",
+    "href": "chapter3.html#sub-content-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-2",
+    "href": "chapter3.html#sub-content-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-3",
+    "href": "chapter3.html#sub-content-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-1-1",
+    "href": "chapter3.html#sub-content-1-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.1 Sub Content 1",
+    "text": "2.1 Sub Content 1\n\n\n\n\n\n\nNoteNote\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-2-1",
+    "href": "chapter3.html#sub-content-2-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.2 Sub Content 2",
+    "text": "2.2 Sub Content 2\n\n\n\n\n\n\nTipTip\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-3-1",
+    "href": "chapter3.html#sub-content-3-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.3 Sub Content 3",
+    "text": "2.3 Sub Content 3\n\n\n\n\n\n\nWarningWarning\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-1-2",
+    "href": "chapter3.html#sub-content-1-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.1 Sub Content 1",
+    "text": "3.1 Sub Content 1\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-2-2",
+    "href": "chapter3.html#sub-content-2-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.2 Sub Content 2",
+    "text": "3.2 Sub Content 2\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-3-2",
+    "href": "chapter3.html#sub-content-3-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.3 Sub Content 3",
+    "text": "3.3 Sub Content 3\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-1-3",
+    "href": "chapter3.html#sub-content-1-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.1 Sub Content 1",
+    "text": "4.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-2-3",
+    "href": "chapter3.html#sub-content-2-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.2 Sub Content 2",
+    "text": "4.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-3-3",
+    "href": "chapter3.html#sub-content-3-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.3 Sub Content 3",
+    "text": "4.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-1-4",
+    "href": "chapter3.html#sub-content-1-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.1 Sub Content 1",
+    "text": "5.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-2-4",
+    "href": "chapter3.html#sub-content-2-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.2 Sub Content 2",
+    "text": "5.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-3-4",
+    "href": "chapter3.html#sub-content-3-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.3 Sub Content 3",
+    "text": "5.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-1-5",
+    "href": "chapter3.html#sub-content-1-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.1 Sub Content 1",
+    "text": "6.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-2-5",
+    "href": "chapter3.html#sub-content-2-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.2 Sub Content 2",
+    "text": "6.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#sub-content-3-5",
+    "href": "chapter3.html#sub-content-3-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.3 Sub Content 3",
+    "text": "6.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "3. Bab 3"
+    ]
+  },
+  {
+    "objectID": "chapter5.html",
+    "href": "chapter5.html",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.\n\n\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nCurabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-1",
+    "href": "chapter5.html#sub-content-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-2",
+    "href": "chapter5.html#sub-content-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-3",
+    "href": "chapter5.html#sub-content-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "",
+    "text": "Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-1-1",
+    "href": "chapter5.html#sub-content-1-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.1 Sub Content 1",
+    "text": "2.1 Sub Content 1\n\n\n\n\n\n\nNoteNote\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-2-1",
+    "href": "chapter5.html#sub-content-2-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.2 Sub Content 2",
+    "text": "2.2 Sub Content 2\n\n\n\n\n\n\nTipTip\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-3-1",
+    "href": "chapter5.html#sub-content-3-1",
+    "title": "ENTER YOUR CONTENT",
+    "section": "2.3 Sub Content 3",
+    "text": "2.3 Sub Content 3\n\n\n\n\n\n\nWarningWarning\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-1-2",
+    "href": "chapter5.html#sub-content-1-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.1 Sub Content 1",
+    "text": "3.1 Sub Content 1\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-2-2",
+    "href": "chapter5.html#sub-content-2-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.2 Sub Content 2",
+    "text": "3.2 Sub Content 2\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-3-2",
+    "href": "chapter5.html#sub-content-3-2",
+    "title": "ENTER YOUR CONTENT",
+    "section": "3.3 Sub Content 3",
+    "text": "3.3 Sub Content 3\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-1-3",
+    "href": "chapter5.html#sub-content-1-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.1 Sub Content 1",
+    "text": "4.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-2-3",
+    "href": "chapter5.html#sub-content-2-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.2 Sub Content 2",
+    "text": "4.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-3-3",
+    "href": "chapter5.html#sub-content-3-3",
+    "title": "ENTER YOUR CONTENT",
+    "section": "4.3 Sub Content 3",
+    "text": "4.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-1-4",
+    "href": "chapter5.html#sub-content-1-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.1 Sub Content 1",
+    "text": "5.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-2-4",
+    "href": "chapter5.html#sub-content-2-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.2 Sub Content 2",
+    "text": "5.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-3-4",
+    "href": "chapter5.html#sub-content-3-4",
+    "title": "ENTER YOUR CONTENT",
+    "section": "5.3 Sub Content 3",
+    "text": "5.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-1-5",
+    "href": "chapter5.html#sub-content-1-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.1 Sub Content 1",
+    "text": "6.1 Sub Content 1",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-2-5",
+    "href": "chapter5.html#sub-content-2-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.2 Sub Content 2",
+    "text": "6.2 Sub Content 2",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
+    ]
+  },
+  {
+    "objectID": "chapter5.html#sub-content-3-5",
+    "href": "chapter5.html#sub-content-3-5",
+    "title": "ENTER YOUR CONTENT",
+    "section": "6.3 Sub Content 3",
+    "text": "6.3 Sub Content 3",
+    "crumbs": [
+      "**BAB**",
+      "5. Bab 5"
     ]
   }
 ]
